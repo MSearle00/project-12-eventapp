@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+
+ul {
+  margin-left: 1.5rem;
+  list-style: none;
+}
+
+button,
+input[type="submit"] {
+  border: none;
+  background: none;
+  color: unset;
+  cursor: pointer;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol {
+  margin: 1em 0;
+}
+
+.navbar {
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: rgb(8, 60, 66);
+  color: white;
+}
+
+.navbar .title {
+  padding: 0 1rem;
+  color: white;
+}
+
+.navbar .authOptions {
+  height: 100%;
+  display: flex;
+}
+
+.navbar .authOptions button {
+  background-color: rgb(3, 35, 39);
+  padding: 0 1rem;
+  font-size: 1.1rem;
+}
+.navbar .authOptions button:hover {
+  background-color: rgb(18, 103, 112);
+}
+
+@media screen and (max-width: 550px) {
+  .navbar .title {
+    font-size: 1.2rem;
+  }
+  .navbar .authOptions button {
+    font-size: 0.8rem;
+    padding: 0.5rem;
+  }
+}
