@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/project-12-eventapp/static/css/main.9c7887ff.chunk.css",
+    "main.js": "/project-12-eventapp/static/js/main.575a2f8a.chunk.js",
+    "main.js.map": "/project-12-eventapp/static/js/main.575a2f8a.chunk.js.map",
+    "runtime-main.js": "/project-12-eventapp/static/js/runtime-main.216a2050.js",
+    "runtime-main.js.map": "/project-12-eventapp/static/js/runtime-main.216a2050.js.map",
+    "static/js/2.182d08de.chunk.js": "/project-12-eventapp/static/js/2.182d08de.chunk.js",
+    "static/js/2.182d08de.chunk.js.map": "/project-12-eventapp/static/js/2.182d08de.chunk.js.map",
+    "index.html": "/project-12-eventapp/index.html",
+    "static/css/main.9c7887ff.chunk.css.map": "/project-12-eventapp/static/css/main.9c7887ff.chunk.css.map",
+    "static/js/2.182d08de.chunk.js.LICENSE.txt": "/project-12-eventapp/static/js/2.182d08de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.216a2050.js",
+    "static/js/2.182d08de.chunk.js",
+    "static/css/main.9c7887ff.chunk.css",
+    "static/js/main.575a2f8a.chunk.js"
+  ]
+}
